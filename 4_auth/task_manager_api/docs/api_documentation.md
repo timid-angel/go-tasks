@@ -1,6 +1,12 @@
 # Getting Started
 The endpoints of the task manager API have been documented along with sample requests and sample responses. For direct access to the API requests, import the collection file located in `/docs/`.
 
+The published Postman documentation is linked below:
+- [Task Manager API](https://documenter.getpostman.com/view/31638773/2sA3s4kADE)
+- [User Auth](https://documenter.getpostman.com/view/31638773/2sA3s4k9z3)
+
+---
+
 To run the application, go to the root directory of the project and run:
 ```bash
 go run .
